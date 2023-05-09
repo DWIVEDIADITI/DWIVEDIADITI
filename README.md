@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DWIVEDIADITI
-- 👀 I’m interested in Coding . 
-- 🌱 I’m currently learning DS and Algorithm.
+- 👀 Geeky Coder . 
+- 🌱 Expertise in DSA and DBMS.
 - 📫 You can reach me at dwivediaditi06092002@gmail.com
-- 🍔 I'm a vegetarian Foodie .
+- 🍔 Foodie(Veg) .
 <!---
 DWIVEDIADITI/DWIVEDIADITI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
